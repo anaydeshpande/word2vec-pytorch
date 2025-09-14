@@ -1,0 +1,7 @@
+torch>=2.2
+numpy>=1.26
+tqdm>=4.66
+fastapi>=0.112
+uvicorn>=0.30
+scikit-learn>=1.4
+matplotlib>=3.8
