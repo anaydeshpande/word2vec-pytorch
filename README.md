@@ -263,5 +263,3 @@ This isn't just a toy implementation - it's a complete, production-ready system 
 Perfect for learning, research, or as a foundation for larger NLP projects!
 
 ---
-
-*Built with ❤️ and PyTorch*
